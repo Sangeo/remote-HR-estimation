@@ -5,6 +5,8 @@ The code implements the 2SR [1] rPPG algorithm for heart rate estimation, alongs
 
 This repository only contains the refined solutions, if further information is required as to the entire commit history, please visit: https://github.com/Sangeo/ECE-2020-FYP.
 
+This code should only be used for academic and research purposes.
+
 This solution requires the installation of the following dependencies:
 - OpenCV (https://opencv.org/)
 - FFTW (http://www.fftw.org/)
